@@ -1,1 +1,5 @@
+gusdfukg<<<<<<< HEAD
 uwsqekjg
+=======
+bjkdfsvbujk
+>>>>>>> e4b7b2d3a584d97f716dec7d8998428a0fde681e
